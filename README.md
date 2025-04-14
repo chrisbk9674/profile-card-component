@@ -1,4 +1,4 @@
-# 🌟 Profile Card Component – Frontend Mentor Challenge\*\*
+# 🌟 Fully Responsive Profile Card Component\*\*
 
 <p align="center">
   <img src="design/desktop-preview.jpg" alt="Profile Card Component" width="50%">
